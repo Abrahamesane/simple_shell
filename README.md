@@ -1,4 +1,4 @@
-# 0x16. C - Simple Shell
+#  0x16. C - Simple Shell
 # Learning Objectives
 * Who designed and implemented the original Unix operating system
 * Who wrote the first version of the UNIX shell
